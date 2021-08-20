@@ -21,6 +21,8 @@ This phase was about building a new worker for augur to calculate the **libyear*
 - environment.yaml
 - environment.yml.lock
 - environment.yaml.lock
+
+This is a very evolving worker, I would be adding support for different package managers like NPM, Maven, Rubygems soon.
 ---
 ### Pull Requests
 - [Extended Deps Worker to Collect Scorecard Data](https://github.com/chaoss/augur/pull/1307)
