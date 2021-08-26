@@ -21,7 +21,7 @@ This phase was about building a new worker for augur to calculate the **libyear*
 - environment.yaml
 - environment.yml.lock
 - environment.yaml.lock  
-This is a very evolving worker, I would be adding support for different package managers like NPM, Maven, RubyGems soon.
+  This is a very evolving worker, I would be adding support for different package managers like NPM, Maven, RubyGems soon.
 ---
 ### Pull Requests
 - [Extended Deps Worker to Collect Scorecard Data](https://github.com/chaoss/augur/pull/1307)
@@ -36,6 +36,7 @@ This is a very evolving worker, I would be adding support for different package 
 - [Weeks 4&5](https://dhruvhsachdev.medium.com/gsoc21-chaoss-coding-period-week-4-5-fb5e80b96cc9)
 - [Weeks 6&7](https://dhruvhsachdev.medium.com/gsoc21-chaoss-coding-period-week-6-7-4c3b3ac5173b)
 - [Weeks 8&9](https://dhruvhsachdev.medium.com/gsoc21-chaoss-coding-period-week-8-9-f9455e55ee7a)
+- [Week 10](https://dhruvhsachdev.medium.com/gsoc21-week-10-and-beyond-f0f0fd09d99c)
 
 ---
 ### Links
